@@ -1,5 +1,5 @@
 # Language setting
-language: none
+language: java
 
 # Version number
 jdk: 
