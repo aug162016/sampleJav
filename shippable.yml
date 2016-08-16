@@ -1,7 +1,6 @@
 # Language setting
 language: none
 
-
 # Version number
 jdk: 
    - openjdk6
